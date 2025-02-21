@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
 </div>
 <hr>
-<div align="center">
+<div align="left">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaxxxx&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vnxhzl41)](https://solved.ac/vnxhzl41/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=vnxhzl41)](https://solved.ac/vnxhzl41)
 </div>
