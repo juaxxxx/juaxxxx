@@ -11,6 +11,6 @@
 </div>
 <hr>
 <div align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaxxxx&layout=compact)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=vnxhzl41)](https://solved.ac/vnxhzl41)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaxxxx&layout=compact" />&nbsp
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=vnxhzl41)](https://solved.ac/vnxhzl41)
 </div>
