@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
 </div>
+<hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />&nbsp
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=vnxhzl41)](https://solved.ac/vnxhzl41" />&nbsp
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaxxxx&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vnxhzl41)](https://solved.ac/vnxhzl41/)
 </div>
