@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
 
 <!--내용 부분-->
 <h2 align="center">💻 Stack</h2>
